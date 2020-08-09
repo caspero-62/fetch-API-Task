@@ -34,7 +34,7 @@ addClass(contain, 'container');
 
 const getData = async function () {
    try {
-      const response = await fetch('https://swapi.co/api/films');
+      const response = await fetch('https://swapi.dev/api/films');
 
       const data = await response.json();
    
