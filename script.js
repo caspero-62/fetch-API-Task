@@ -18,7 +18,7 @@ let imgHD = createE('div');
 addClass(imgHD, 'imgHD');
 
 let imgH = createE('img');
-imgH.src = 'http://pngimg.com/uploads/star_wars_logo/star_wars_logo_PNG31.png';
+imgH.src = 'https://pngimg.com/uploads/star_wars_logo/star_wars_logo_PNG31.png';
 
 let logoText = createE('div');
 addClass(logoText, 'logoText');
